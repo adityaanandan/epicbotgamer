@@ -1,4 +1,5 @@
-🚨🚨🚨 Random Idiot Alert 🚨🚨🚨/
+🚨🚨🚨 Random Idiot Alert 🚨🚨🚨
+
 Hi there, I'm Aditya, a 17 year old who loves coding, gaming, pop culture, and other cool stuff.
 
 :fire: :fire: :fire: Check out my work at www.adityaanandan.com and contact me at adityasanandan@gmail.com if you like what I do :fire: :fire: :fire:

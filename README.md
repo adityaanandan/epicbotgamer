@@ -8,7 +8,9 @@ Some of my projects are:
 
 * :book: Author of "Leveling Up: An Interactive Guide to Programming and Game Design
 * :video_game: A ton of gaming projects which can be found on my account
+* 💻 Personal Projects
 * :studio_microphone: Host of "The Brown Boys" Podcast
 * :elephant: Creator of "Divine Elephants" NFT
 * :basketball: Creator of stat  website for NBA
+* :signal_strength: Personal Web Developer on Fiverr
 

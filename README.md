@@ -10,7 +10,6 @@ Some of my projects are:
 * :video_game: A ton of gaming projects which can be found on my account
 * 💻 Personal Projects
 * :studio_microphone: Host of "The Brown Boys" Podcast
-* :elephant: Creator of "Divine Elephants" NFT
 * :basketball: Creator of stat  website for NBA
 * :signal_strength: Personal Web Developer on Fiverr
 
